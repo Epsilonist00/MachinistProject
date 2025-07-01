@@ -1,2 +1,2 @@
 # MachinistProject
-A python script that calculates machining formulas 
+A very basic and bare bones python script that calculates machining formulas. 
