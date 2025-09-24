@@ -1,2 +1,1 @@
-Version 1.0 changes. Major: Made GitHub Repository to allow for update checks. Minor: Basic boring spelling, grammar, and bug fixes. 
-Version 1.2 changes. (not released yet) Major: Added version changes log to GitHub Repositor and script. (and more :] ) 
+
